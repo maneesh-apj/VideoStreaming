@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Learning\\LearningAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\controllers\\proxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\controllers\\proxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\video-player\\video-player.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\video-player\\video-player.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|d:\\projects\\learning\\learningangular\\learningangular.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A31A293-CBDD-4F16-8EEA-3FEA8B772F75}|learningangular.client\\learningangular.client.esproj|solutionrelative:learningangular.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|d:\\projects\\learning\\learningangular\\learningangular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E9E65DE-657F-4C20-BAAC-D851F0B77215}|LearningAngular.Server\\LearningAngular.Server.csproj|solutionrelative:learningangular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "angular.json",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\angular.json",
+              "RelativeDocumentMoniker": "learningangular.client\\angular.json",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\angular.json",
+              "RelativeToolTip": "learningangular.client\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T07:53:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "learningangular.client\\tsconfig.json",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\tsconfig.json",
+              "RelativeToolTip": "learningangular.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T14:05:54.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "learningangular.client\\aspnetcore-https.js",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\aspnetcore-https.js",
+              "RelativeToolTip": "learningangular.client\\aspnetcore-https.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T08:00:53.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "learningangular.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-09T08:03:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Program.cs",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\Program.cs",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Program.cs",
+              "RelativeToolTip": "LearningAngular.Server\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:36:10.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProxyController.cs",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Controllers\\ProxyController.cs",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\Controllers\\ProxyController.cs",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Controllers\\ProxyController.cs",
+              "RelativeToolTip": "LearningAngular.Server\\Controllers\\ProxyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:34:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\proxy.conf.js",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "learningangular.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T07:53:37.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "video-player.component.ts",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\video-player\\video-player.component.ts",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\video-player\\video-player.component.ts",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\video-player\\video-player.component.ts",
+              "RelativeToolTip": "learningangular.client\\src\\video-player\\video-player.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-09T08:43:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\main.ts",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\main.ts",
+              "RelativeToolTip": "learningangular.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-01T20:19:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "learningangular.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-09T08:03:39.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\index.html",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\index.html",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\index.html",
+              "RelativeToolTip": "learningangular.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-09T08:52:22.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "learningangular.client\\src\\app\\app.component.html",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "learningangular.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-09T08:51:44.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LearningAngular.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:32:34.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\CHANGELOG.md",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\CHANGELOG.md",
+              "RelativeToolTip": "LearningAngular.Server\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-09T07:59:38.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launch.json",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "learningangular.client\\.vscode\\launch.json",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\.vscode\\launch.json",
+              "RelativeToolTip": "learningangular.client\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T08:14:45.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\appsettings.json",
+              "RelativeToolTip": "LearningAngular.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T14:02:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\appsettings.Development.json",
+              "RelativeToolTip": "LearningAngular.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T14:02:11.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LearningAngular.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LearningAngular.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T14:01:48.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

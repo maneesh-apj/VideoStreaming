@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44356",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Projects\\Learning\\LearningAngular\\LearningAngular.Server\\..\\learningangular.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

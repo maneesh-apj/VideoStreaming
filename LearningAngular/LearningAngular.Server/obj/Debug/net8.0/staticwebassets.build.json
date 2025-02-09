@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "D3MuV6Yq124o6741Wu2ocQ+ZuKFyPwwKPheF0G0JouQ=",
+  "Source": "LearningAngular.Server",
+  "BasePath": "_content/LearningAngular.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Projects\\Learning\\LearningAngular\\learningangular.client\\learningangular.client.esproj",
+      "Version": 2,
+      "Source": "learningangular.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

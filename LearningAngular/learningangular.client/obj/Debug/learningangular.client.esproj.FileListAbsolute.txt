@@ -1,0 +1,1 @@
+D:\Projects\Learning\LearningAngular\learningangular.client\obj\Debug\learningangular.client.esproj.CoreCompileInputs.cache
