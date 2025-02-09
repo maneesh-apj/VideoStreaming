@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StreamAPI.props" />
+</Project>

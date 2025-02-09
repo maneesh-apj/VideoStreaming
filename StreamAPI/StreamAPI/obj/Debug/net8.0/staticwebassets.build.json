@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "duK9I3d5jJMqLaN5rtZF0CTXz76M8KphNLIKXhm2G4M=",
+  "Source": "StreamAPI",
+  "BasePath": "_content/StreamAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
